@@ -1,3 +1,5 @@
+> **Project type: Learning / practice.** This repository documents an earlier stage of my development journey and is kept as a learning reference and portfolio exercise.
+
 # 🎧 Text to Speech Genie
 
 **Text to Speech Genie** is a simple and elegant web application that converts written text into spoken audio using the **Web Speech API (SpeechSynthesis)**.  
